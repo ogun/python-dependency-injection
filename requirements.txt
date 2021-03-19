@@ -1,0 +1,8 @@
+pydantic==1.8.1
+python-dotenv==0.15.0
+
+pinject==0.14.1
+injector==0.18.4
+dependency-injector==4.29.2
+inject==4.3.1
+serum==5.1.0
