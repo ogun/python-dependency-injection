@@ -1,27 +1,11 @@
 # Python Dependency Injection Frameworks
 
-## Manual dependency injection with defaults
+## Manual way with basic implementation
 ```bash
 python main_pinject.py
 ```
 
-## Dependency injection with Pinject
-
-https://github.com/google/pinject
-
-```bash
-python main_pinject.py
-```
-
-## Dependency injection with Injector
-
-https://github.com/alecthomas/injector
-
-```bash
-python main_injector.py
-```
-
-## Dependency injection with Dependency Injector
+## Dependency Injector
 
 https://github.com/ets-labs/python-dependency-injector
 
@@ -29,7 +13,7 @@ https://github.com/ets-labs/python-dependency-injector
 python main_dependency_injector.py
 ```
 
-## Dependency injection with Inject
+## Inject
 
 https://github.com/ivankorobkov/python-inject
 
@@ -37,7 +21,23 @@ https://github.com/ivankorobkov/python-inject
 python main_inject.py
 ```
 
-## Dependency injection with Serum
+## Injector
+
+https://github.com/alecthomas/injector
+
+```bash
+python main_injector.py
+```
+
+## Pinject
+
+https://github.com/google/pinject
+
+```bash
+python main_pinject.py
+```
+
+## Serum
 
 https://github.com/suned/serum
 
